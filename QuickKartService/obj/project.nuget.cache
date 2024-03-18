@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "trMyXjqwp5b/huzZh6nE+inhm18vMqmX/ElWqFVX4f9/4hzJAGTBLO+z2SPHf/Q0fVdndBnGu8dkR3jnkjdGRQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Ashish\\Downloads\\QuickKart\\QuickKartService\\QuickKartService.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.deps.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.dll
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.pdb
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.csprojAssemblyReference.cache
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.csproj.CoreCompileInputs.cache
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.AssemblyInfoInputs.cache
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.AssemblyInfo.cs
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.dll
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.pdb
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.runtimeconfig.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\QuickKartEFCore\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.runtimeconfig.dev.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.deps.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.runtimeconfig.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.runtimeconfig.dev.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.dll
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.pdb
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.csprojAssemblyReference.cache
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.csproj.CoreCompileInputs.cache
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.AssemblyInfoInputs.cache
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.AssemblyInfo.cs
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.dll
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Application\QuickKart\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.pdb
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.deps.json
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.runtimeconfig.json
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.runtimeconfig.dev.json
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.dll
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.pdb
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.csprojAssemblyReference.cache
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.csproj.CoreCompileInputs.cache
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.AssemblyInfoInputs.cache
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.AssemblyInfo.cs
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.dll
+D:\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.pdb
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.csprojAssemblyReference.cache
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.csproj.CoreCompileInputs.cache
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.AssemblyInfoInputs.cache
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.AssemblyInfo.cs
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.dll
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\obj\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.pdb
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.deps.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.runtimeconfig.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.runtimeconfig.dev.json
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.dll
+C:\Users\rohini.n01\Desktop\ASP.NET Web API Core-FSM\Demo\QuickKart\QuickKartDALCrossPlatform\bin\Debug\netcoreapp2.1\QuickKartDALCrossPlatform.pdb
